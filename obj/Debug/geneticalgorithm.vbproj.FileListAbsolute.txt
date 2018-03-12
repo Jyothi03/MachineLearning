@@ -1,0 +1,26 @@
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\geneticalgorithm.vbprojResolveAssemblyReference.cache
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\patternfinal.GAcode.resources
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\patternfinal.Resources.resources
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\geneticalgorithm.vbproj.GenerateResource.Cache
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\patternfinal.exe
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\patternfinal.xml
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\obj\Debug\patternfinal.pdb
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\bin\Debug\patternfinal.exe.config
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\bin\Debug\patternfinal.exe
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\bin\Debug\patternfinal.pdb
+C:\Users\Shivamanojreddy\Desktop\PATTERN 1\Genetic-Algorithm-Implementation--master\patternfinal\bin\Debug\patternfinal.xml
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\bin\Debug\patternfinal.exe.config
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\patternfinal.exe
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\patternfinal.xml
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\patternfinal.pdb
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\bin\Debug\patternfinal.exe
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\bin\Debug\patternfinal.pdb
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\bin\Debug\patternfinal.xml
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\geneticalgorithm.vbprojResolveAssemblyReference.cache
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\patternfinal.GAcode.resources
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\patternfinal.Resources.resources
+C:\Users\Shivamanojreddy\Desktop\PA3_SHIVA MANOJ REDDY GANGULA_2481015\Shiva_Genetic\obj\Debug\geneticalgorithm.vbproj.GenerateResource.Cache
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\bin\Debug\patternfinal.exe.config
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.exe
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.xml
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.pdb

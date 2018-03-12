@@ -1,0 +1,11 @@
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\myassignment.vbprojResolveAssemblyReference.cache
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.genetic_code.resources
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.Resources.resources
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\myassignment.vbproj.GenerateResource.Cache
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.exe
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.xml
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\patternfinal.pdb
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\bin\Debug\patternfinal.exe.config
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\bin\Debug\myassignment.exe.config
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\myassignment.genetic_code.resources
+C:\Users\Shivamanojreddy\Desktop\PA3_shivajyothi_2482977\Jyothi_Assignment\obj\Debug\myassignment.Resources.resources
